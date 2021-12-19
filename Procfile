@@ -1,1 +1,1 @@
-web: npm start
+web: python tw7.py runserver 0.0.0.0:5000
